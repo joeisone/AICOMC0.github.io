@@ -1,7 +1,7 @@
-AI agent development components 
+AI agent development components (MTKAGO)
 1. Foundational reasoning model : Deep seek R1, OpenAI o3, IBM etc
 2. Tools of agent: To access web, To access computer, To access harddrive or email.
-3. Memory: Vector stores, File Search, Embeddings etc 
+3. Knowledge and Memory: Vector stores, File Search, Embeddings etc 
 4. Audio and Speech: Audio generation, Realtime, 
 5. Guardrails:
 6. Orchestration: Agents SDK, Tracing, Evaluation, Fine Tuning.
